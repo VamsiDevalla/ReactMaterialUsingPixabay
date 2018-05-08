@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8c0e219-47dc-4a4b-b7a0-3e8bf0e98571" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/image-results/ImageResults.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/image-results/ImageResults.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navbar/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/search/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search/Search.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -43,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Search.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Search.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/search/Search.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-420">
-              <caret line="21" column="118" selection-start-line="21" selection-start-column="118" selection-end-line="21" selection-end-column="118" />
+            <state relative-caret-position="306">
+              <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -55,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImageResults.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ImageResults.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/image-results/ImageResults.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="38" column="91" selection-start-line="38" selection-start-column="91" selection-end-line="38" selection-end-column="91" />
+            <state relative-caret-position="1122">
+              <caret line="78" column="27" lean-forward="true" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -91,8 +89,8 @@
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/components/navbar/Navbar.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/components/search/Search.js" />
         <option value="$PROJECT_DIR$/src/components/image-results/ImageResults.js" />
+        <option value="$PROJECT_DIR$/src/components/search/Search.js" />
       </list>
     </option>
   </component>
@@ -201,12 +199,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525706316230</updated>
-      <workItem from="1525706320387" duration="9544000" />
+      <workItem from="1525706320387" duration="11100000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9544000" />
+    <option name="totallyTimeSpent" value="11100000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1380" height="743" extended-state="6" />
@@ -288,20 +286,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/search/Search.js">
+    <entry file="file://$PROJECT_DIR$/src/components/image-results/ImageResults.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-420">
-          <caret line="21" column="118" selection-start-line="21" selection-start-column="118" selection-end-line="21" selection-end-column="118" />
+        <state relative-caret-position="1122">
+          <caret line="78" column="27" lean-forward="true" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/image-results/ImageResults.js">
+    <entry file="file://$PROJECT_DIR$/src/components/search/Search.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="38" column="91" selection-start-line="38" selection-start-column="91" selection-end-line="38" selection-end-column="91" />
+        <state relative-caret-position="306">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
